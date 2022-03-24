@@ -7,3 +7,7 @@ def pi(p, q) :
 def util(z, theta):
     return (z ** (1 + theta)) / (1 + theta)
 
+def f(x) :
+    return x ** 2
+
+
